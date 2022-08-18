@@ -60,6 +60,11 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
+  // A collection of all posts in the folder posts/sthlm_metro
+  eleventyConfig.addCollection("sthlm_metro_posts", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/sthlm_metro/*.md");
+  });
+  
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
