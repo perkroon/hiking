@@ -1,0 +1,16 @@
+---
+layout: layouts/home.njk
+permalink: /posts/utomlands/
+eleventyNavigation:
+  key: Utomlands
+  order: 6
+---
+
+<h1>Utomlands</h1>
+<h2>Köpenhamn</h2>
+<h2>Hamburg</h2>
+<h2>Berlin</h2>
+<h2>Wien</h2>
+
+{% set postslist = collections.utomlands_posts %}
+{% include "postslist.njk" %}

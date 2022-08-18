@@ -60,10 +60,22 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
-  // A collection of all posts in the folder posts/sthlm_metro
-  eleventyConfig.addCollection("sthlm_metro_posts", function (collectionApi) {
+  // A collection of all posts in the folder posts/stockholms_tunnelbana
+  eleventyConfig.addCollection("stockholms_tunnelbana_posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("posts/stockholms_tunnelbana/*.md");
   });
+  // A collection of all posts in the folder posts/stockholms_lokalbanor
+  eleventyConfig.addCollection("stockholms_lokalbanor_posts", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/stockholms_lokalbanor/*.md");
+  });
+  // A collection of all posts in the folder posts/stockholms_pendel
+  eleventyConfig.addCollection("stockholms_pendel_posts", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/stockholms_pendel/*.md");
+  });
+  // A collection of all posts in the folder posts/utomlands
+  eleventyConfig.addCollection("utomlands_posts", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/utomlands/*.md");
+  });  
   
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
