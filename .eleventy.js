@@ -62,7 +62,7 @@ module.exports = function(eleventyConfig) {
 
   // A collection of all posts in the folder posts/sthlm_metro
   eleventyConfig.addCollection("sthlm_metro_posts", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("posts/sthlm_metro/*.md");
+    return collectionApi.getFilteredByGlob("posts/stockholms_tunnelbana/*.md");
   });
   
   // Customize Markdown library and settings:
