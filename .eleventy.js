@@ -76,6 +76,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("utomlands_posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("posts/utomlands/*.md");
   });  
+  // A collection of all posts in the folder posts/sormlandsleden
+  // TODO: Plus all posts tagged with Sörmlandsleden (since I have hike them while following a track)
+  eleventyConfig.addCollection("sormlandsleden_posts", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/sormlandsleden/*.md");
+  });  
   
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({

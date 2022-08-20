@@ -1,8 +1,20 @@
 # Spårvandringsbloggen
 
 - Fixa foton
+  Tips: https://github.com/darkins/gallery
 - Gör snyggare
 - Konvertera inlägg
+- Göra en för vandringsleder
+
+- Jag hade i slutet WordPress 6.0.1.
+  PHP-version? SQL?
+
+  https://github.com/dbatydev/docker-wordpress-existing-example
+  Gör backup och restore: 
+  1. CPanel, PhpAdmin, Export.
+  2. CPanel, Files, komprimera public_html, ladda hem.
+  
+
 
 # eleventy-base-blog
 
