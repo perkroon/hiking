@@ -1,6 +1,12 @@
 # Spårvandringsbloggen
 
-- Fixa foton
+- Fixa så att man refererar till lokala foton
+- Flytta foton så att de ligger nära texten
+- Välj ett "omslagsfoto"
+- Kontrollera att datumen stämmer
+- Gör en snyggare tabell över varje sträcka
+
+
   Tips: https://github.com/darkins/gallery
 - Gör snyggare
 - Konvertera inlägg
