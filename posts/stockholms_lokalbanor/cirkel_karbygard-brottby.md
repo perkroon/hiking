@@ -1,7 +1,7 @@
 ---
-title: Lokalbanorna runt. Solna Station mot Kårsta, del ett.
-description: En vandring mellan ändstationerna på lokalbanorna.
-date: 2016-01-05
+title: Lokalbanorna runt. Karby gård - Brottby.
+description: En vandring mellan ändstationerna på lokalbanorna. På väg mellan Solna Station och Kårsta.
+date: 2018-11-06
 tags:
   - Stockholm
   - Tvärbanan

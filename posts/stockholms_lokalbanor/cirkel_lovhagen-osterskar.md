@@ -1,7 +1,7 @@
 ---
-title: Lokalbanorna runt. Från Kårsta mot Österskär, del två
-description: En vandring mellan ändstationerna på lokalbanorna.
-date: 2019-05-30 
+title: Lokalbanorna runt. Lövhagen - Österskär.
+description: En vandring mellan ändstationerna på lokalbanorna. På väg från Kårsta till Österskär.
+date: 2019-05-30
 tags:
   - Lokalbanor
   - Cirkel

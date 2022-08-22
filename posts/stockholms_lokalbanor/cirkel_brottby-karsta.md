@@ -1,7 +1,7 @@
 ---
-title: Lokalbanorna runt. Mot Kårsta, del tre
-description: En vandring mellan ändstationerna på lokalbanorna.
-date: 2019-01-23 
+title: Lokalbanorna runt. Brottby - Kårsta
+description: En vandring mellan ändstationerna på lokalbanorna. På väg mellan Solna Station och Kårsta.
+date: 2019-01-16 
 tags:
   - Lokalbanor
 layout: layouts/post.njk

@@ -1,6 +1,6 @@
 ---
-title: Lokalbanorna runt. Från Österskär till Djursholm
-description: En vandring mellan ändstationerna på lokalbanorna.
+title: Lokalbanorna runt. Österskär - Djursholm
+description: En vandring mellan ändstationerna på lokalbanorna. På väg från Österskär till Näsby Park.
 date: 2019-01-23 
 tags:
   - Lokalbanor
@@ -169,5 +169,3 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 
 <!-- wp:html -->
 <iframe src="https://www.google.com/maps/d/embed?mid=1U03xJdK5htxEWh5qBhbKKaQTV66ialAW" width="640" height="480"></iframe>
-
-google.com/maps/d/embed?mid=1EGpjIDjY8Ygax-9PAM5WGuhl3ZMSTrMO&amp;hl=sv" width="640" height="480"></iframe></figure>
