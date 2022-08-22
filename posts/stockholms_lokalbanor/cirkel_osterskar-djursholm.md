@@ -1,12 +1,16 @@
 ---
 title: Lokalbanorna runt. Österskär - Djursholm
 description: En vandring mellan ändstationerna på lokalbanorna. På väg från Österskär till Näsby Park.
-date: 2019-01-23 
+date: 2019-08-03 
 tags:
   - Lokalbanor
+  - Cirkel
+  - Roslagsbanan
+  - Utkast
 layout: layouts/post.njk
-photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
+photo: ../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2643
 ---
+<iframe src="https://www.google.com/maps/d/embed?mid=1U03xJdK5htxEWh5qBhbKKaQTV66ialAW" width="640" height="480"></iframe>
 
 <p>Inför den här vandringen gjorde jag vissa efterforskningar, men jag orkade aldrig planera i detalj. Jag ville hellre ut och vandra, vilket kom att få vissa konsekvenser. Men mer om det senare!</p>
 <!-- /wp:paragraph -->
@@ -16,7 +20,7 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":791,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2627-1024x683.jpg" alt="" class="wp-image-791"/><figcaption>Tistlar på Generalsvägen.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2627.jpg" alt="" class="wp-image-791"/><figcaption>Tistlar på Generalsvägen.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -24,27 +28,27 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":792,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2628-1024x683.jpg" alt="" class="wp-image-792"/><figcaption>Ett hus på Generalsvägen. Det verkar inte så nytt, men större än alla andra. Det liknar Djursholm, som är slutmålet för dagens vandring.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2628.jpg" alt="" class="wp-image-792"/><figcaption>Ett hus på Generalsvägen. Det verkar inte så nytt, men större än alla andra. Det liknar Djursholm, som är slutmålet för dagens vandring.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":793,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2631-1024x683.jpg" alt="" class="wp-image-793"/><figcaption>Vid slutet av Generalsvägen fanns några förskolor. Det här är ett sätt att bygga skolor på som jag inte gillar: det är anpassat för bilburna som ska komma med bil och lämna av sina barn. Mycket asfalt, och säkert bilköer på morgonen.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2631.jpg" alt="" class="wp-image-793"/><figcaption>Vid slutet av Generalsvägen fanns några förskolor. Det här är ett sätt att bygga skolor på som jag inte gillar: det är anpassat för bilburna som ska komma med bil och lämna av sina barn. Mycket asfalt, och säkert bilköer på morgonen.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":794,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2633-1024x683.jpg" alt="" class="wp-image-794"/><figcaption>De här husen på andra sidan gräset såg först identiska ut när jag tittade snabbt på dem. Men så börjar man titta på detaljerna och ser då att alla takfönster är olika, vissa hus har skorsten och andra inte. De har säkert ändrats över tid, genom om- och tillbyggnader.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2633.jpg" alt="" class="wp-image-794"/><figcaption>De här husen på andra sidan gräset såg först identiska ut när jag tittade snabbt på dem. Men så börjar man titta på detaljerna och ser då att alla takfönster är olika, vissa hus har skorsten och andra inte. De har säkert ändrats över tid, genom om- och tillbyggnader.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":795,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2638-1024x683.jpg" alt="" class="wp-image-795"/><figcaption>Åkersbergas motsvarighet till Hammarby Sjöstad, längs ån.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2638.jpg" alt="" class="wp-image-795"/><figcaption>Åkersbergas motsvarighet till Hammarby Sjöstad, längs ån.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":796,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2643-1024x683.jpg" alt="" class="wp-image-796"/><figcaption>Vy norrut över ån, med det nya området på östra sidan.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2643.jpg" alt="" class="wp-image-796"/><figcaption>Vy norrut över ån, med det nya området på östra sidan.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":797,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2648-1024x683.jpg" alt="" class="wp-image-797"/></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2648.jpg" alt="" class="wp-image-797"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -52,7 +56,7 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":798,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2651-1024x683.jpg" alt="" class="wp-image-798"/><figcaption>Nybyggda hus som ser ut att vara temporära. Flyktingboende?</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2651.jpg" alt="" class="wp-image-798"/><figcaption>Nybyggda hus som ser ut att vara temporära. Flyktingboende?</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -60,7 +64,7 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":799,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2660-1024x683.jpg" alt="" class="wp-image-799"/><figcaption>En vacker glänta i skogen. Gammal åkermark?</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2660.jpg" alt="" class="wp-image-799"/><figcaption>En vacker glänta i skogen. Gammal åkermark?</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -72,11 +76,11 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":816} -->
-<figure class="wp-block-image"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/v3-1200x800-75-1200x800-1024x683.png" alt="" class="wp-image-816"/><figcaption>En bild från visionen om stadsdelen Täljöhalvö.</figcaption></figure>
+<figure class="wp-block-image"><img src="../photos/v3-1200x800-75-1200x800.png" alt="" class="wp-image-816"/><figcaption>En bild från visionen om stadsdelen Täljöhalvö.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":800,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2664-1024x683.jpg" alt="" class="wp-image-800"/><figcaption>En nylagd väg som leder upp mot ett stort hus.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2664.jpg" alt="" class="wp-image-800"/><figcaption>En nylagd väg som leder upp mot ett stort hus.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -92,11 +96,11 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":801,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2671-1024x683.jpg" alt="" class="wp-image-801"/></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2671.jpg" alt="" class="wp-image-801"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":802,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2672-1024x683.jpg" alt="" class="wp-image-802"/><figcaption>Fler nybyggda hus i området. Det kommer att bli många fler invånare i Österåker!</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2672.jpg" alt="" class="wp-image-802"/><figcaption>Fler nybyggda hus i området. Det kommer att bli många fler invånare i Österåker!</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -104,15 +108,15 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":803,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2681-1024x683.jpg" alt="" class="wp-image-803"/></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2681.jpg" alt="" class="wp-image-803"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":804,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2682-1024x683.jpg" alt="" class="wp-image-804"/></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2682.jpg" alt="" class="wp-image-804"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":805,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2684-1024x683.jpg" alt="" class="wp-image-805"/></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2684.jpg" alt="" class="wp-image-805"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -132,7 +136,7 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":806,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2695-1024x683.jpg" alt="" class="wp-image-806"/><figcaption>Kor tittar på en stressad stadsbo som passerade förbli.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2695.jpg" alt="" class="wp-image-806"/><figcaption>Kor tittar på en stressad stadsbo som passerade förbli.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -140,31 +144,31 @@ photo: ../photos/lokalbanor-brottby-till-karsta-dscf8182-20190116.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":807,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2707-1024x683.jpg" alt="" class="wp-image-807"/><figcaption>Kustbanan för cyklister verkar leda till bryggan den också.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2707.jpg" alt="" class="wp-image-807"/><figcaption>Kustbanan för cyklister verkar leda till bryggan den också.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":808} -->
-<figure class="wp-block-image"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2711-1024x683.jpg" alt="" class="wp-image-808"/><figcaption>Här är bryggan. Det är jag som hissat semaforen. En underbar kväll, jag blev sugen på att bada.</figcaption></figure>
+<figure class="wp-block-image"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2711.jpg" alt="" class="wp-image-808"/><figcaption>Här är bryggan. Det är jag som hissat semaforen. En underbar kväll, jag blev sugen på att bada.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":809} -->
-<figure class="wp-block-image"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2713-1024x683.jpg" alt="" class="wp-image-809"/><figcaption>Färja nr 81 har precis släppt av mig vid Ekudden, som är en brygga i Djursholm, vid Strandvägen.</figcaption></figure>
+<figure class="wp-block-image"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2713.jpg" alt="" class="wp-image-809"/><figcaption>Färja nr 81 har precis släppt av mig vid Ekudden, som är en brygga i Djursholm, vid Strandvägen.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":810} -->
-<figure class="wp-block-image"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2716-1024x683.jpg" alt="" class="wp-image-810"/><figcaption>Hej då färjan! Ombord köpte jag en halvliter vatten som jag drack upp på nolltid.</figcaption></figure>
+<figure class="wp-block-image"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2716.jpg" alt="" class="wp-image-810"/><figcaption>Hej då färjan! Ombord köpte jag en halvliter vatten som jag drack upp på nolltid.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":811,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2720-1024x683.jpg" alt="" class="wp-image-811"/><figcaption>I Djursholm var villorna så stora att man ibland undrade om det var flerfamiljshus. </figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2720.jpg" alt="" class="wp-image-811"/><figcaption>I Djursholm var villorna så stora att man ibland undrade om det var flerfamiljshus. </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":812,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2725-1024x683.jpg" alt="" class="wp-image-812"/><figcaption>Här är ett flerfamiljshus i Djursholm!</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2725.jpg" alt="" class="wp-image-812"/><figcaption>Här är ett flerfamiljshus i Djursholm!</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":813,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="http://kroons.se/vandra/wp-content/uploads/sites/4/2019/08/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2726-1024x683.jpg" alt="" class="wp-image-813"/><figcaption>Djursholm torg.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20190803-lokalbanorna-runt-osterskar-till-djursholm-torg-dscf2726.jpg" alt="" class="wp-image-813"/><figcaption>Djursholm torg.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:html -->
