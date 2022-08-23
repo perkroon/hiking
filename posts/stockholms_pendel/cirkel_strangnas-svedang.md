@@ -19,38 +19,38 @@ layout: layouts/post.njk
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":940,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9430.jpg" alt="" class="wp-image-940"/><figcaption>Snyggt, men ganska ödsligt.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9430.jpg" alt="" class="wp-image-940"/><figcaption>Snyggt, men ganska ödsligt.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":938} -->
-<figure class="wp-block-image"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9447-1024x683.jpg" alt="" class="wp-image-938"/><figcaption>Lite äldre hus, inne i stan.</figcaption></figure>
+<figure class="wp-block-image"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9447.jpg" alt="" class="wp-image-938"/><figcaption>Lite äldre hus, inne i stan.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":939,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9449-1024x683.jpg" alt="" class="wp-image-939"/><figcaption>Strängnäs hamn... Jag visste inte tidigare att Strängnäs hade en hamn.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9449.jpg" alt="" class="wp-image-939"/><figcaption>Strängnäs hamn... Jag visste inte tidigare att Strängnäs hade en hamn.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":937,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9453.jpg" alt="" class="wp-image-937"/><figcaption>Bron från centrala Strängnäs över till Abborrberget. En smal trottoar på denna sidan, en lite bredare cykel- och gångbana på andrar sidan.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9453.jpg" alt="" class="wp-image-937"/><figcaption>Bron från centrala Strängnäs över till Abborrberget. En smal trottoar på denna sidan, en lite bredare cykel- och gångbana på andrar sidan.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":935} -->
-<figure class="wp-block-image"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9457-1024x683.jpg" alt="" class="wp-image-935"/><figcaption>Större delen av sträckan var landsväg.</figcaption></figure>
+<figure class="wp-block-image"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9457.jpg" alt="" class="wp-image-935"/><figcaption>Större delen av sträckan var landsväg.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":936,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9461.jpg" alt="" class="wp-image-936"/><figcaption>Solen började gå ner när jag närmade mig Svedäng.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9461.jpg" alt="" class="wp-image-936"/><figcaption>Solen började gå ner när jag närmade mig Svedäng.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":933,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9465-1024x683.jpg" alt="" class="wp-image-933"/><figcaption>En liten bit genade jag på en stig genom en energiskog. För det är det väl? En Salix-odling?</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9465.jpg" alt="" class="wp-image-933"/><figcaption>En liten bit genade jag på en stig genom en energiskog. För det är det väl? En Salix-odling?</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":932,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9470.jpg" alt="" class="wp-image-932"/><figcaption>Framme vid Svedäng fick jag kontakt med Mälaren igen. Här fanns bl.a. en kanot man fick låna.</figcaption></figure>
+<figure class="wp-block-image alignfull"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9470.jpg" alt="" class="wp-image-932"/><figcaption>Framme vid Svedäng fick jag kontakt med Mälaren igen. Här fanns bl.a. en kanot man fick låna.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":934} -->
-<figure class="wp-block-image"><img src="https://kroons.se/vandra/wp-content/uploads/sites/4/2020/09/20200828-pendelcirkel-strangnas-svedang-perk9469-1024x683.jpg" alt="" class="wp-image-934"/><figcaption>I detta hus fanns ett "Rum och frukost". Det var välutrustat, med ett litet kök som man själv disponerade på övervåningen (delade med några andra rum). </figcaption></figure>
+<figure class="wp-block-image"><img src="../photos/20200828-pendelcirkel-strangnas-svedang-perk9469.jpg" alt="" class="wp-image-934"/><figcaption>I detta hus fanns ett "Rum och frukost". Det var välutrustat, med ett litet kök som man själv disponerade på övervåningen (delade med några andra rum). </figcaption></figure>
 <!-- /wp:image -->
 
