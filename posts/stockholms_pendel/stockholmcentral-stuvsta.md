@@ -1,12 +1,12 @@
 ---
-title: Pendelcirkel, Stockholm Central - Stuvsta
+title: Pendeltåg, Stockholm Central - Stuvsta
 description: Från Stockholm Central till Stuvsta
 date: 2016-10-08
 tags:
   - Stockholm
   - Pendeltåg
-  - Utkast
 layout: layouts/post.njk
+photo: ../photos/centralen-stuvsta-perk8897-20161008.jpg
 ---
 <iframe src="https://www.google.com/maps/d/embed?mid=1KR6vvSRirpj-HFxq53jilZScCYCm8aX-" width="640" height="480"></iframe>
 

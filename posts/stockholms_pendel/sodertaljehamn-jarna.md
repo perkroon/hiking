@@ -1,12 +1,12 @@
 ---
-title: Pendel, Södertälje Hamn - Järna
+title: Pendeltåg, Södertälje Hamn - Järna
 description: Från Södertälje Hamn till Järna
-date: 2016-10-08
+date: 2017-01-25
 tags:
   - Stockholm
   - Pendeltåg
-  - Utkast
 layout: layouts/post.njk
+photo: ../photos/pendel-socc88dertacc88lje-h-jacc88rna-perk1564-20170125.jpg
 ---
 <iframe src="https://www.google.com/maps/d/embed?mid=1I1rzxWYJsPfhQt4Vd1ARNbHydKzuBHk3" width="640" height="480"></iframe>
 
@@ -70,3 +70,5 @@ Jag trodde nog att Järna skulle se annorlunda ut än det gjorde. Tyvärr gjorde
 <img class="alignnone size-full wp-image-89" src="../photos/pendel-socc88dertacc88lje-h-jacc88rna-perk1595-20170125.jpg" alt="" />
 
 Sammantaget var det en intressant sträcka att gå, även om naturen inte bjuder till särskilt mycket en januaridag som den här. Själva leden var bra utmärkt och lätt att följa, men det var lite mindre charmigt att passera nära Södertäljes soptipp. Sjöarna lär inte lämpa sig för bad eller dryck heller, av naturliga skäl.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1I1rzxWYJsPfhQt4Vd1ARNbHydKzuBHk3" width="640" height="480"></iframe>
