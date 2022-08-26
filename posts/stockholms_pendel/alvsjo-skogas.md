@@ -5,8 +5,8 @@ date: 2017-07-17
 tags:
   - Stockholm
   - Pendeltåg
-photo: ../photo/pendeltacc8ag-acc88lvsjocc88-skogacc8as-perk7085-20170717.jpg
-layout: layouts/post.njk
+photo: ../photos/pendeltacc8ag-acc88lvsjocc88-skogacc8as-perk7085-20170717.jpg
+layout: layouts/testpost.njk
 ---
 Vandringen började vid Älvsjö station, eftersom jag gått längs spåren från Centralen till Gnesta tidigare. Älvsjö har ändrats ganska mycket sedan jag brukade byta tåg här får omkring 20 år sedan när jag bodde i Stuvsta och jobbade i Haninge.
 

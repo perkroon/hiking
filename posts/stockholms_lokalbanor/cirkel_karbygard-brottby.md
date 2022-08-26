@@ -5,6 +5,7 @@ date: 2018-11-06
 tags:
   - Stockholm
   - Tvärbanan
+  - Roslagsleden
 layout: layouts/post.njk
 photo: ../photos/roslagsleden-etapp-2-dscf5069-20181106.jpg
 ---

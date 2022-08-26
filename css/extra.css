@@ -1,0 +1,19 @@
+/* Extra */
+.featured-photo {
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 100vw;
+    position: relative;
+    right: 50%;
+    width: 100vw;
+  }
+      
+h1 {
+      font-family: 'Abril Fatface', serif;
+      font-size: 3em;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 400;
+}
+   

@@ -16,21 +16,21 @@
   --text-color-link: #082840;
   --text-color-link-visited: #17050F;
 }
-
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --color-gray-20: #e0e0e0;
     --color-gray-50: #C0C0C0;
     --color-gray-90: #dad8d8;
 
-    /* --text-color is assigned to --color-gray-_ above */
+    ** --text-color is assigned to --color-gray-_ above **
     --text-color-link: #1493fb;
     --text-color-link-visited: #a6a6f8;
 
     --background-color: #15202b;
   }
 }
-
+*/
 
 /* Global stylesheet */
 * {
@@ -254,3 +254,14 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+
+
+.featured-media {
+   background-position: center; 
+   background-size: cover; 
+   display: block; 
+   max-height: 682px; 
+   position: relative; 
+   width: 100%; 
+  }
