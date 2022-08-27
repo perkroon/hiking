@@ -1,5 +1,5 @@
 ---
-title: Pendeltåg, Skogås
+title: Pendeltåg, Skogås - Jordbro
 description: Från Skogås till Jordbro.
 date: 2017-07-19
 tags:

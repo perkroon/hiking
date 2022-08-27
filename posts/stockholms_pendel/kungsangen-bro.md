@@ -1,7 +1,7 @@
 ---
 title: Pendeltåg, Kungsängen - Bro
 description: Från Kungsängen till Bro
-date: 2017-06-14
+date: 2017-06-09
 tags:
   - Stockholm
   - Pendeltåg
