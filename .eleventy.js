@@ -12,11 +12,11 @@ module.exports = function(eleventyConfig) {
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
-  eleventyConfig.addPassthroughCopy("stockholms_pendel/photos");
-  eleventyConfig.addPassthroughCopy("stockholms_lokalbanor/photos");
-  eleventyConfig.addPassthroughCopy("stockholms_tunnelbana/photos");
-  eleventyConfig.addPassthroughCopy("utomlands/photos");
-  eleventyConfig.addPassthroughCopy("sormlandsleden/photos");
+  eleventyConfig.addPassthroughCopy("posts/stockholms_pendel/photos");
+  eleventyConfig.addPassthroughCopy("posts/stockholms_lokalbanor/photos");
+  eleventyConfig.addPassthroughCopy("posts/stockholms_tunnelbana/photos");
+  eleventyConfig.addPassthroughCopy("posts/utomlands/photos");
+  eleventyConfig.addPassthroughCopy("posts/sormlandsleden/photos");
 
 
   // Add plugins

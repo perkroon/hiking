@@ -8,7 +8,13 @@
     right: 50%;
     width: 100vw;
   }
-      
+
+/* Image captures, d.v.s. bildtexter. Alla * direkt efter en bild tolkas som bildtexter */
+img + em {
+  font-size: 0.8em;
+  line-height: 0.6em;;
+}
+
 h1 {
       font-family: 'Abril Fatface', serif;
       font-size: 3em;
@@ -16,4 +22,3 @@ h1 {
       letter-spacing: 1px;
       font-weight: 400;
 }
-   
